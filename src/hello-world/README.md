@@ -35,7 +35,7 @@ Esta linea le indica a Go que este archivo pertenece al paquete especial llamado
 import "fmt"
 ```
 
-Esta linea indica a Go que estas importando el paquete `fmt` de la libreria standard que viene incorporada en golang.
+Esta linea indica a Go que estas importando el paquete `fmt` de la libreria standard de golang.
 
 ```go
 func main(){
