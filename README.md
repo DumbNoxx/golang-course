@@ -1,4 +1,4 @@
-# Curso de Go siguiendo roadmap.sh
+# Curso de Go en español
 
 ## Introducción a Go
 
