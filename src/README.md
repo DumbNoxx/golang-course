@@ -59,7 +59,7 @@ Llevando a que la sintaxis del lenguaje C llegaria a estar asi, hasta el dia de 
 ```c
 #include <stdio.h>
 
-main() {
+int main() {
   printf("Hello, World");
 }
 ```
