@@ -24,7 +24,7 @@ grandes volumenes de datos es crucial principalmente. Hice enfasis en el "usa" p
 Luego tenemos a BCPL y B (1966 - 1969) que son los predecesores directos de C.
 
 - BCPL: Es un lenguaje en el que se baso B. Un programa para imprimir texto era complejo para estandares modernos.
-- B: Lenguaje creado por Ken Thompson en contribucion de Dennis Ritchie a finales de los años 60 fue una, fue desarrollado en los laboratorios Bell, donde mas tarde se crearia el sistema operativo UNIX 
+- B: Lenguaje creado por Ken Thompson en contribucion de Dennis Ritchie a finales de los años 60, fue desarrollado en los laboratorios Bell, donde mas tarde se crearia el sistema operativo UNIX 
 Un ejemplo de una impresion en pantalla de B podria verse asi:
 ```b
 main() {
