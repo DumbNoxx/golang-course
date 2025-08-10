@@ -8,8 +8,6 @@ En Golang se pueden declarar de dos maneras:
 var variable
 variable1 :=
 ```
-```
-```
 
 La primera se usa la palabra reservada (keyword) `var` y en la segunda se usa el operador de walrus el cual también se le dice el operador de asignación corta.
 
