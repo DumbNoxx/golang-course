@@ -17,8 +17,6 @@ Las cual pueden quedar asi:
 var variable = "Esto es una variable"
 variable1 := "Esto tambien es una variable"
 ```
-```
-```
 
 En Golang también existen las Constantes, son un tipo de variable que almacenan valores inmutable, o que no pueden ser modificados, a diferencia de los demás lenguajes de programación, las constantes no tienen que ir en mayúsculas, a menos que quiera que sea exportada (Se hablará de ese tema más adelante). Al principio se usará el camelCase si la constante es local, o usando SCREAMING_CASE si es una constante de ámbito global, también puedes usar PascalCase para declarar constantes.
 
@@ -38,8 +36,6 @@ Var se usa más que todo para declarar una variable pero no inicializarla, siemp
 
 ```Golang
 var name string 
-```
-```
 ```
 
 Que tambien puede ser inicializada sin ningun problema.
